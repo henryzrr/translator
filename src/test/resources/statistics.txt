@@ -1,0 +1,2 @@
+Número de estrofas: 2
+Palabra mas repetida: Y
